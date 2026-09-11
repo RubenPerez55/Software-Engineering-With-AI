@@ -1,7 +1,8 @@
 # Context Engineering Experiment
 **Curso:** Ingeniería de Software Asistida por IA — UADY  
 **Práctica:** ADA-03 — Context Engineering Experiment  
-**Autor:** Rubén Pérez  
+**Elaborado por:** Rubén Alejandro Pérez Zumárraga  
+**Herramienta:** Agy
 **Fecha:** 8 de septiembre de 2026  
 
 ---
@@ -224,7 +225,7 @@ Cero intervenciones durante las ejecuciones de los tres agentes. Toda la interac
 - En `AGENTS.md`: Añadir una directriz explícita para generar pruebas unitarias adicionales que cubran los nuevos criterios de aceptación sin alterar los tests originales.
 
 ### 11. ¿Qué aprendiste sobre la responsabilidad del desarrollador al usar agentes?
-El desarrollador deja de ser un mero escritor de sintaxis para convertirse en un arquitecto de contexto y auditor de calidad. Si el desarrollador no define con rigor los límites, contratos y compuertas de validación, el agente puede generar código superficial que pase los tests presentes pero falle en producción o degrade la arquitectura del sistema.
+El desarrollador deja de ser un mero escritor de sintaxis para convertirse en un arquitecto de contexto y auditor de calidad. Si nosotros como desarrolladores no definimos con rigor los límites, contratos y compuertas de validación, el agente puede generar código superficial que pase los tests presentes pero falle en producción o degrade la arquitectura del sistema.
 
 ---
 
